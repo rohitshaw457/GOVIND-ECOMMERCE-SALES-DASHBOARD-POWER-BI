@@ -13,4 +13,4 @@ This Power BI project transforms raw transaction data into a visually engaging d
 - Empowers stakeholders to make data-driven decisions.
 
 ## 📸 Demo Screenshot
-
+![Dashboard Screenshot](assets/dashboard-screenshot.png)
