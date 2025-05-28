@@ -43,3 +43,12 @@ This Power BI project transforms raw transaction data into a visually engaging d
 
 6. **Profit by Sub-Category**  
    Printers (~₹9 K) top margins, then Bookcases, Sarees, Accessories, Tables.
+
+   ## 🏁 Results & Learnings
+- Pinpointed Maharashtra as the sales leader and off-peak months needing targeted promotions.  
+- Standardized raw transaction data and used Power Query (group, filter, custom cols) for reliable, high-performance reporting.  
+- Crafted interactive visuals (bar, donut, column, map) that lead users straight to critical insights.  
+- Built a responsive, presentation-ready layout with slicers and drill-throughs for state- and customer-level analysis.  
+- Refined color palettes, chart types, and KPI selection to balance detail and clarity.
+
+
