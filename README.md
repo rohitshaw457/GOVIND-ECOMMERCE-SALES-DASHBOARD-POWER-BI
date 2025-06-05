@@ -1,4 +1,4 @@
-# Govind Ecommerce Sales Dashboard-Power BI
+# Govind Ecommerce Sales Dashboard
 
 ## 🎯 Objective
 The **owner of Govind E-commerce** needed a comprehensive, interactive dashboard to:
@@ -12,10 +12,10 @@ This Power BI project transforms raw transaction data into a visually engaging d
 - Supports dynamic filtering by **Quarter** and **State**.
 - Empowers stakeholders to make data-driven decisions.
 
-## 📸 Demo Screenshot
+## 📸 Dashboard Preview
 ![Dashboard Screenshot](assets/dashboard-screenshot.png)
 
-## 📊 Key Metrics (KPIs)
+## 📊 Key Performance Indicator (KPIs)
 
 | KPI                      | Value   | Description                |
 |--------------------------|--------:|----------------------------|
