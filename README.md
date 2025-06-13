@@ -1,7 +1,7 @@
 # Govind Ecommerce Sales Dashboard
 
 ## 🎯 Objective
-The **owner of Govind E-commerce** needed a comprehensive, interactive dashboard to:
+The **owner of Govind Ecommerce** needed a comprehensive, interactive dashboard to:
 - **Track** online sales performance across all Indian states.
 - **Analyze** revenue, profit, order volumes, and payment behaviors.
 - **Identify** monthly trends, top customers, and high-value product categories.
